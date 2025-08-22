@@ -27,11 +27,11 @@ Telematics and Industrial Engineer with 5+ years of experience in software devel
 
 ### 🔧 Notable Projects
 
-| Project            | Description                                                                 | Technologies                             | Repository                                      |
-| ------------------ | --------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------- |
-| **MubOn**          | Charge and manage electric vehicle energy in sustainable communities        | Flutter, Angular, DJango                 | [Play Store]([https://github.com/Areshkew/humble-project-ui](https://play.google.com/store/apps/details?id=com.deepseadev.mubon&pcampaignid=web_share))|
-| **Vecci**          | the app that makes community living simpler, safer, and more connected.     | Flutter, GraphQL, Microservices          | [Play Store]([https://areshkew.github.io/portfolio/](https://play.google.com/store/apps/details?id=co.vecci.app&pcampaignid=web_share))|
-| **Clonal Manager** | Simplifies and streamlines clonal collection management.                    | Flutter, Java, Spring Boot               | [Play Store]([https://github.com/Areshkew/edunat](https://play.google.com/store/apps/details?id=org.cgiar.alliance.ggcefs.clonal_management&pcampaignid=web_share)) |
+| Project            | Description                                                                 | Technologies                             | Links                                                                 |
+| ------------------ | --------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------------- |
+| **MubOn**          | Charge and manage electric vehicle energy in sustainable communities        | Flutter, Angular, DJango                 | [Play Store](https://play.google.com/store/apps/details?id=com.deepseadev.mubon&pcampaignid=web_share) |
+| **Vecci**          | The app that makes community living simpler, safer, and more connected.     | Flutter, GraphQL, Microservices          | [Play Store](https://play.google.com/store/apps/details?id=co.vecci.app&pcampaignid=web_share) |
+| **Clonal Manager** | Simplifies and streamlines clonal collection management.                    | Flutter, Java, Spring Boot               | [Play Store](https://play.google.com/store/apps/details?id=org.cgiar.alliance.ggcefs.clonal_management&pcampaignid=web_share) |
 
 ---
 
